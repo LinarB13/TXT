@@ -1,0 +1,2 @@
+skills: GIT, SDLC, STLC, JSON, XML, Postman, Dev Tools, VPN, XCode, ADB, terminal, bash, SQL, Postgres, Redis, Jmeter, Scrum, Python
+
